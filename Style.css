@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+.main {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+    height: 650px;
+    width: 300px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    width: 100%;
+    vertical-align: top;
+}
+
+h1 {
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+
+p {
+    text-align: center;
+}
+
+.a,
+.b,
+.c {
+    text-align: center;
+    display: inline-block;
+    font-size: xx-large;
+}
+
+.a {
+    margin-left: 50px;
+}
+
+.b {
+    margin-left: 600px;
+}
+
+.c {
+    margin-left: 600px;
+}
+
+header {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    padding: 20px;
+}
